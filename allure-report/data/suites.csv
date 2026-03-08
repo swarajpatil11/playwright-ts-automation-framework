@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","30344","complete order flow","firefox","2026-03-08","broken","2026-03-08","","order.spec.ts","",""
+"","9793","login assertion","webkit","2026-03-08","passed","2026-03-08","","login.spec.ts","",""
+"","4379","login assertion","chromium","2026-03-08","passed","2026-03-08","","login.spec.ts","",""
+"","4961","complete order flow","chromium","2026-03-08","passed","2026-03-08","","order.spec.ts","",""
+"","30250","login assertion","firefox","2026-03-08","broken","2026-03-08","","login.spec.ts","",""
+"","11852","complete order flow","webkit","2026-03-08","passed","2026-03-08","","order.spec.ts","",""
